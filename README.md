@@ -33,7 +33,7 @@ me = Developer(
   contacts=[
     Contact(name="Email", address="lucascbernardes@live.com"),
     Contact(name="LinkedIn", address="https://linkedin.com/in/lucascbernardes/?locale=en_US"),
-    Contact(name="Website", address="https://lucas.github.io"),
+    Contact(name="Website", address="https://lucascb.github.io"),
   ]
 )
 
@@ -47,7 +47,7 @@ me.contact_me()
 # You can reach me on 📫
 # Email: lucascbernardes@live.com
 # LinkedIn: https://linkedin.com/in/lucascbernardes/?locale=en_US
-# Website: https://lucas.github.io
+# Website: https://lucascb.github.io
 
 ```
 
